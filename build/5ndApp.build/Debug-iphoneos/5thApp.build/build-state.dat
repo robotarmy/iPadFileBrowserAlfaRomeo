@@ -1,0 +1,447 @@
+T5thApp
+v7
+r0
+t293782716.010921
+cCheck dependencies
+cCpResource build/Debug-iphoneos/5thApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Info.plist _ndApp-Info.plist
+cCompileXIB /Users/cjs/Documents/5thApp/MainWindow.xib
+cCompileXIB /Users/cjs/Documents/5thApp/DetailView.xib
+cCopyPNGFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Default.png Default.png
+cProcessPCH /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch.gch _ndApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/main.o /Users/cjs/Documents/5thApp/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/_ndAppAppDelegate.o /Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/RootViewController.o /Users/cjs/Documents/5thApp/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/DetailViewController.o /Users/cjs/Documents/5thApp/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp normal armv7
+cGenerateDSYMFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app.dSYM /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp
+cProcessProductPackaging "/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision" /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision
+cTouch /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent
+cCodeSign /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B9F103D00000000000000DD
+t1268715581
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/Availability.h
+c000000004B9F27C60000000000001A1A
+t1268721606
+s6682
+
+N/Users/cjs/Documents/5thApp/Classes/DetailViewController.h
+c000000004BD1150E0000000000000272
+t1271993614
+s626
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/5thApp/Classes/DetailViewController.m
+c000000004BBDF7CF0000000000000DAE
+t1270740943
+s3502
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/cjs/Documents/5thApp/Classes/RootViewController.h
+c000000004BD28327000000000000020A
+t1272087335
+s522
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/5thApp/Classes/RootViewController.m
+c000000004BD28D3900000000000016C3
+t1272089913
+s5827
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.h
+c000000004BB8FC540000000000000304
+t1270414420
+s772
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m
+c000000004BB8FDF100000000000003FC
+t1270414833
+s1020
+i"_ndAppAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/cjs/Documents/5thApp/Default.png
+c000000004B8B20A7000000000000E1F2
+t1267409063
+s57842
+
+N/Users/cjs/Documents/5thApp/DetailView.xib
+c000000004BD10F3100000000000079F4
+t1271992113
+s31220
+
+N/Users/cjs/Documents/5thApp/MainWindow.xib
+c000000004BD28B8D00000000000075B6
+t1272089485
+s30134
+
+N/Users/cjs/Documents/5thApp/_ndApp_Prefix.pch
+c000000004BB8FC54000000000000013E
+t1270414420
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent
+t1271991366
+s319
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/2ndApp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/5thApp.LinkFileList
+c000000004BD10C4100000000000001C7
+t1271991361
+s455
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/DetailViewController.o
+t1272087594
+s48540
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/RootViewController.o
+t1272089915
+s49128
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/_ndAppAppDelegate.o
+t1272087594
+s48816
+
+N/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/main.o
+t1271991365
+s6400
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app.dSYM
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/2ndApp
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/Default.png
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/DetailView.nib
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/Info.plist
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/MainWindow.nib
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/PkgInfo
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/ResourceRules.plist
+t2
+s0
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+t1272089916
+s408
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app.dSYM
+t1272089915
+s102
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp
+t1272089915
+s26964
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Default.png
+t1271991364
+s48753
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/DetailView.nib
+t1271996668
+s6881
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Info.plist
+t1271991361
+s923
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/MainWindow.nib
+t1272089541
+s2148
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/PkgInfo
+t1271991361
+s8
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/ResourceRules.plist
+t1271991361
+s485
+
+N/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision
+t1271991366
+s7188
+
+N/Users/cjs/Documents/5thApp/main.m
+c000000004BB8FC54000000000000015E
+t1270414420
+s350
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision
+c000000004BD10B810000000000001C14
+t1271991169
+s7188
+
+N/var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch.gch
+t1271991365
+s9421460
+
+N_ndApp-Info.plist
+c000000004BB8FCDE00000000000004B5
+t1270414558
+s1205
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293782715#293782715#0(0"0(0#1#0"4300960984#0"0#
+
+CCodeSign /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+s293782715.686642
+e293782716.010874
+r1
+xCodeSign
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+lSLF07#2@40"CodeSign build/Debug-iphoneos/5thApp.app293782715#293782716#0(0"0(0#0#59"/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app4300960984#622"    cd /Users/cjs/Documents/5thApp    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Curtis Schofield (695HH473HQ)" --resource-rules=/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/ResourceRules.plist --entitlements /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app0#
+
+CCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/DetailViewController.o /Users/cjs/Documents/5thApp/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293780394.418472
+e293780394.516559
+r1
+xCompileC
+xbuild/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/DetailViewController.o
+x/Users/cjs/Documents/5thApp/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/cjs/Documents/5thApp/Classes/DetailViewController.m293780394#293780394#0(0"0(0#0#58"/Users/cjs/Documents/5thApp/Classes/DetailViewController.m4300960984#1623"    cd /Users/cjs/Documents/5thApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-generated-files.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-own-target-headers.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-all-target-headers.hmap -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-project-headers.hmap -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -I/Users/cjs/Documents/5thApp/build/Debug-iphoneos/include -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources/armv7 -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch -c /Users/cjs/Documents/5thApp/Classes/DetailViewController.m -o /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/DetailViewController.o0#
+
+CCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/RootViewController.o /Users/cjs/Documents/5thApp/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293782715.323227
+e293782715.510922
+r1
+xCompileC
+xbuild/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/RootViewController.o
+x/Users/cjs/Documents/5thApp/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController goBack]':
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m:28: warning: conflicting types for '-(id)goBack'
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.h:18: warning: previous declaration of '-(void)goBack'
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m:31: warning: control reaches end of non-void function
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m:88: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController updateDetailView:]':
+o/Users/cjs/Documents/5thApp/Classes/RootViewController.m:192: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)
+lSLF07#2@64"Compile /Users/cjs/Documents/5thApp/Classes/RootViewController.m293782715#293782715#0(1188"/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController goBack]':/Users/cjs/Documents/5thApp/Classes/RootViewController.m:28: warning: conflicting types for '-(id)goBack'/Users/cjs/Documents/5thApp/Classes/RootViewController.h:18: warning: previous declaration of '-(void)goBack'/Users/cjs/Documents/5thApp/Classes/RootViewController.m:31: warning: control reaches end of non-void function/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/cjs/Documents/5thApp/Classes/RootViewController.m:88: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController updateDetailView:]':/Users/cjs/Documents/5thApp/Classes/RootViewController.m:192: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)5(22@35"Conflicting types for '-(id)goBack'293782715#102#106#0(6@56"/Users/cjs/Documents/5thApp/Classes/RootViewController.m293782713#28#0#28#0#25"conflicting types for '*'0(22@39"Previous declaration of '-(void)goBack'293782715#208#110#0(6@56"/Users/cjs/Documents/5thApp/Classes/RootViewController.h293780135#18#0#18#0#0"0(22@40"Control reaches end of non-void function293782715#318#111#0(6@56"/Users/cjs/Documents/5thApp/Classes/RootViewController.m293782713#31#0#31#0#40"control reaches end of non-void function0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)293782715#557#251#0(6@56"/Users/cjs/Documents/5thApp/Classes/RootViewController.m293782713#88#0#88#0#33"'*' is deprecated (declared at *)0(22@195"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)293782715#921#267#0(6@56"/Users/cjs/Documents/5thApp/Classes/RootViewController.m293782713#192#0#192#0#33"'*' is deprecated (declared at *)0(0#0#56"/Users/cjs/Documents/5thApp/Classes/RootViewController.m4300960984#1619"    cd /Users/cjs/Documents/5thApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-generated-files.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-own-target-headers.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-all-target-headers.hmap -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-project-headers.hmap -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -I/Users/cjs/Documents/5thApp/build/Debug-iphoneos/include -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources/armv7 -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch -c /Users/cjs/Documents/5thApp/Classes/RootViewController.m -o /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/_ndAppAppDelegate.o /Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293780394.308347
+e293780394.418088
+r1
+xCompileC
+xbuild/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/_ndAppAppDelegate.o
+x/Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m293780394#293780394#0(0"0(0#0#55"/Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m4300960984#1617"    cd /Users/cjs/Documents/5thApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-generated-files.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-own-target-headers.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-all-target-headers.hmap -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-project-headers.hmap -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -I/Users/cjs/Documents/5thApp/build/Debug-iphoneos/include -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources/armv7 -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch -c /Users/cjs/Documents/5thApp/Classes/_ndAppAppDelegate.m -o /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/_ndAppAppDelegate.o0#
+
+CCompileC build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/main.o /Users/cjs/Documents/5thApp/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293684165.233225
+e293684165.395877
+r1
+xCompileC
+xbuild/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/main.o
+x/Users/cjs/Documents/5thApp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/cjs/Documents/5thApp/main.m293684165#293684165#0(0"0(0#0#34"/Users/cjs/Documents/5thApp/main.m4300960984#1583"    cd /Users/cjs/Documents/5thApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-generated-files.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-own-target-headers.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-all-target-headers.hmap -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-project-headers.hmap -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -I/Users/cjs/Documents/5thApp/build/Debug-iphoneos/include -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources/armv7 -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch -c /Users/cjs/Documents/5thApp/main.m -o /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/cjs/Documents/5thApp/DetailView.xib
+s293689468.150753
+e293689468.826052
+r1
+xCompileXIB
+x/Users/cjs/Documents/5thApp/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib293689468#293689468#0(0"0(0#0#42"/Users/cjs/Documents/5thApp/DetailView.xib4300960984#432"    cd /Users/cjs/Documents/5thApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/DetailView.nib /Users/cjs/Documents/5thApp/DetailView.xib0#
+
+CCompileXIB /Users/cjs/Documents/5thApp/MainWindow.xib
+s293782341.173575
+e293782341.508423
+r1
+xCompileXIB
+x/Users/cjs/Documents/5thApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib293782341#293782341#0(0"0(0#0#42"/Users/cjs/Documents/5thApp/MainWindow.xib4300960984#432"    cd /Users/cjs/Documents/5thApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/MainWindow.nib /Users/cjs/Documents/5thApp/MainWindow.xib0#
+
+CCopyPNGFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/Default.png Default.png
+r0
+
+CCopyPNGFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Default.png Default.png
+s293684163.870996
+e293684164.297589
+r1
+xCopyPNGFile
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Default.png
+xDefault.png
+lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/5thApp.app/Default.png Default.png293684163#293684164#0(0"0(0#0#39"/Users/cjs/Documents/5thApp/Default.png4300960984#528"    cd /Users/cjs/Documents/5thApp    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cjs/Documents/5thApp/Default.png /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Default.png0#
+
+CCpResource build/Debug-iphoneos/2ndApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/5thApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s293684161.594423
+e293684161.909796
+r1
+xCpResource
+xbuild/Debug-iphoneos/5thApp.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist293684161#293684161#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist7813796288837021696#457"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app0#
+
+CGenerateDSYMFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app.dSYM /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/2ndApp
+r0
+
+CGenerateDSYMFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app.dSYM /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp
+s293782715.579324
+e293782715.682397
+r1
+xGenerateDSYMFile
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app.dSYM
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp
+lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/5thApp.app.dSYM build/Debug-iphoneos/5thApp.app/5thApp293782715#293782715#0(0"0(0#0#66"/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp4300960984#326"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp -o /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app.dSYM0#
+
+CLd /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/2ndApp normal armv7
+r0
+
+CLd /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp normal armv7
+s293782715.511117
+e293782715.579234
+r1
+xLd
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp
+xnormal
+xarmv7
+lSLF07#2@71"Link /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp293782715#293782715#0(0"0(0#0#0"4300960984#762"    cd /Users/cjs/Documents/5thApp    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/cjs/Documents/5thApp/build/Debug-iphoneos -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -filelist /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/Objects-normal/armv7/5thApp.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/5thApp0#
+
+CProcessInfoPlistFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app/Info.plist _ndApp-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Info.plist _ndApp-Info.plist
+s293684161.686079
+e293684161.792201
+r1
+xProcessInfoPlistFile
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Info.plist
+x_ndApp-Info.plist
+lSLF07#2@25"Process _ndApp-Info.plist293684161#293684161#0(0"0(0#0#45"/Users/cjs/Documents/5thApp/_ndApp-Info.plist4300960984#514"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _ndApp-Info.plist -genpkginfo /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/ResourceRules.plist -o /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/Info.plist0#
+
+CProcessPCH /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch.gch _ndApp_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293684164.319312
+e293684165.233116
+r1
+xProcessPCH
+x/var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch.gch
+x_ndApp_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile _ndApp_Prefix.pch293684164#293684165#0(0"0(0#0#45"/Users/cjs/Documents/5thApp/_ndApp_Prefix.pch4300960984#1493"    cd /Users/cjs/Documents/5thApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-generated-files.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-own-target-headers.hmap -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-all-target-headers.hmap -iquote /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp-project-headers.hmap -F/Users/cjs/Documents/5thApp/build/Debug-iphoneos -I/Users/cjs/Documents/5thApp/build/Debug-iphoneos/include -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources/armv7 -I/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/DerivedSources -c /Users/cjs/Documents/5thApp/_ndApp_Prefix.pch -o /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dcfnhuepouolniarjfijcfqbwagi/_ndApp_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision" /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision
+s293684166.002995
+e293684166.004189
+r1
+xProcessProductPackaging
+x/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision
+lSLF07#2@189"ProcessProductPackaging "/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision" build/Debug-iphoneos/5thApp.app/embedded.mobileprovision293684166#293684166#0(0"0(0#0#84"/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision4300960984#398"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/cjs/Library/MobileDevice/Provisioning Profiles/C950299C-468A-47FC-B659-F9B14F7FC73D.mobileprovision" -o /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent
+s293684166.052094
+e293684166.066109
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent293684166#293684166#0(0"0(0#0#87"/Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent4300960984#407"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/cjs/Documents/5thApp/build/5ndApp.build/Debug-iphoneos/5thApp.build/5thApp.xcent0#
+
+CTouch /Users/cjs/Documents/5thApp/build/Debug-iphoneos/2ndApp.app
+r0
+
+CTouch /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+s293782715.682676
+e293782715.686477
+r1
+xTouch
+x/Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app
+lSLF07#2@65"Touch /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app293782715#293782715#0(0"0(0#0#0"4300960984#241"    cd /Users/cjs/Documents/5thApp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cjs/Documents/5thApp/build/Debug-iphoneos/5thApp.app0#
+
