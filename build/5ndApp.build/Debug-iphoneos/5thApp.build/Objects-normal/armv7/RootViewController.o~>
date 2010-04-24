@@ -1,0 +1,8 @@
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController goBack]':
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m:28: warning: conflicting types for '-(id)goBack'
+/Users/cjs/Documents/5thApp/Classes/RootViewController.h:18: warning: previous declaration of '-(void)goBack'
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m:31: warning: control reaches end of non-void function
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m:88: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m: In function '-[RootViewController updateDetailView:]':
+/Users/cjs/Documents/5thApp/Classes/RootViewController.m:192: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:361)

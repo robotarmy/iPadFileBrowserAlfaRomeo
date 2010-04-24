@@ -1,0 +1,295 @@
+T2ndApp
+v7
+r0
+t292107263.442042
+cCheck dependencies
+cProcessInfoPlistFile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/Info.plist _ndApp-Info.plist
+cCompileXIB /Users/cjs/Documents/2ndApp/MainWindow.xib
+cCompileXIB /Users/cjs/Documents/2ndApp/DetailView.xib
+cProcessPCH /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch.gch _ndApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/main.o /Users/cjs/Documents/2ndApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/_ndAppAppDelegate.o /Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/RootViewController.o /Users/cjs/Documents/2ndApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/DetailViewController.o /Users/cjs/Documents/2ndApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp normal i386
+cGenerateDSYMFile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app.dSYM /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp
+cTouch /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BB8D8600000000000000110
+t1270405216
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004B9F1E7D0000000000001A1A
+t1268719229
+s6682
+
+N/Users/cjs/Documents/2ndApp/Classes/DetailViewController.h
+c000000004BB8FC540000000000000254
+t1270414420
+s596
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/2ndApp/Classes/DetailViewController.m
+c000000004BB8FC540000000000000DB5
+t1270414420
+s3509
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/cjs/Documents/2ndApp/Classes/RootViewController.h
+c000000004BB8FC540000000000000182
+t1270414420
+s386
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/2ndApp/Classes/RootViewController.m
+c000000004BB8FC5400000000000010B8
+t1270414420
+s4280
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.h
+c000000004BB8FC540000000000000304
+t1270414420
+s772
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m
+c000000004BB8FC5400000000000003FC
+t1270414420
+s1020
+i"_ndAppAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/cjs/Documents/2ndApp/DetailView.xib
+c000000004BB8FC540000000000005001
+t1270414420
+s20481
+
+N/Users/cjs/Documents/2ndApp/MainWindow.xib
+c000000004BB8FC5400000000000069C4
+t1270414420
+s27076
+
+N/Users/cjs/Documents/2ndApp/_ndApp_Prefix.pch
+c000000004BB8FC54000000000000013E
+t1270414420
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/2ndApp.LinkFileList
+c000000004BB8FC7D00000000000001DF
+t1270414461
+s479
+
+N/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/DetailViewController.o
+t1270414463
+s43584
+
+N/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/RootViewController.o
+t1270414463
+s41284
+
+N/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/_ndAppAppDelegate.o
+t1270414463
+s46064
+
+N/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/main.o
+t1270414463
+s5920
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app
+t1270414463
+s238
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app.dSYM
+t1270414463
+s102
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp
+t1270414463
+s28568
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/DetailView.nib
+t1270414461
+s1431
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/Info.plist
+t1270414461
+s794
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/MainWindow.nib
+t1270414461
+s1927
+
+N/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/PkgInfo
+t1270414461
+s8
+
+N/Users/cjs/Documents/2ndApp/main.m
+c000000004BB8FC54000000000000015E
+t1270414420
+s350
+i<UIKit/UIKit.h>
+
+N/var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch.gch
+t1270414462
+s13805456
+
+N_ndApp-Info.plist
+c000000004BB8FC5400000000000004D6
+t1270414420
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292107261#292107261#0(0"0(0#1#0"4300960984#0"0#
+
+CCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/DetailViewController.o /Users/cjs/Documents/2ndApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292107263.259004
+e292107263.383801
+r1
+xCompileC
+xbuild/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/DetailViewController.o
+x/Users/cjs/Documents/2ndApp/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/cjs/Documents/2ndApp/Classes/DetailViewController.m292107263#292107263#0(0"0(0#0#58"/Users/cjs/Documents/2ndApp/Classes/DetailViewController.m4300960984#1756"    cd /Users/cjs/Documents/2ndApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-generated-files.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-own-target-headers.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-all-target-headers.hmap -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-project-headers.hmap -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -I/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/include -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources/i386 -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch -c /Users/cjs/Documents/2ndApp/Classes/DetailViewController.m -o /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/RootViewController.o /Users/cjs/Documents/2ndApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292107263.209141
+e292107263.359396
+r1
+xCompileC
+xbuild/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/RootViewController.o
+x/Users/cjs/Documents/2ndApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/cjs/Documents/2ndApp/Classes/RootViewController.m292107263#292107263#0(0"0(0#0#56"/Users/cjs/Documents/2ndApp/Classes/RootViewController.m4300960984#1752"    cd /Users/cjs/Documents/2ndApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-generated-files.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-own-target-headers.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-all-target-headers.hmap -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-project-headers.hmap -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -I/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/include -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources/i386 -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch -c /Users/cjs/Documents/2ndApp/Classes/RootViewController.m -o /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/_ndAppAppDelegate.o /Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292107262.997836
+e292107263.258875
+r1
+xCompileC
+xbuild/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/_ndAppAppDelegate.o
+x/Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m292107262#292107263#0(0"0(0#0#55"/Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m4300960984#1750"    cd /Users/cjs/Documents/2ndApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-generated-files.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-own-target-headers.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-all-target-headers.hmap -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-project-headers.hmap -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -I/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/include -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources/i386 -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch -c /Users/cjs/Documents/2ndApp/Classes/_ndAppAppDelegate.m -o /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/_ndAppAppDelegate.o0#
+
+CCompileC build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/main.o /Users/cjs/Documents/2ndApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292107262.996148
+e292107263.209016
+r1
+xCompileC
+xbuild/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/main.o
+x/Users/cjs/Documents/2ndApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/cjs/Documents/2ndApp/main.m292107262#292107263#0(0"0(0#0#34"/Users/cjs/Documents/2ndApp/main.m4300960984#1716"    cd /Users/cjs/Documents/2ndApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-generated-files.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-own-target-headers.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-all-target-headers.hmap -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-project-headers.hmap -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -I/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/include -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources/i386 -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources -include /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch -c /Users/cjs/Documents/2ndApp/main.m -o /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cjs/Documents/2ndApp/DetailView.xib
+s292107261.075906
+e292107261.607267
+r1
+xCompileXIB
+x/Users/cjs/Documents/2ndApp/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib292107261#292107261#0(0"0(0#0#42"/Users/cjs/Documents/2ndApp/DetailView.xib4300960984#446"    cd /Users/cjs/Documents/2ndApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/DetailView.nib /Users/cjs/Documents/2ndApp/DetailView.xib0#
+
+CCompileXIB /Users/cjs/Documents/2ndApp/MainWindow.xib
+s292107261.072890
+e292107261.641548
+r1
+xCompileXIB
+x/Users/cjs/Documents/2ndApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292107261#292107261#0(0"0(0#0#42"/Users/cjs/Documents/2ndApp/MainWindow.xib4300960984#446"    cd /Users/cjs/Documents/2ndApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/MainWindow.nib /Users/cjs/Documents/2ndApp/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app.dSYM /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp
+s292107263.414278
+e292107263.436052
+r1
+xGenerateDSYMFile
+x/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app.dSYM
+x/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/2ndApp.app.dSYM build/Debug-iphonesimulator/2ndApp.app/2ndApp292107263#292107263#0(0"0(0#0#73"/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp4300960984#347"    cd /Users/cjs/Documents/2ndApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp -o /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app.dSYM0#
+
+CLd /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp normal i386
+s292107263.383912
+e292107263.414177
+r1
+xLd
+x/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp
+xnormal
+xi386
+lSLF07#2@78"Link /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp292107263#292107263#0(0"0(0#0#0"4300960984#802"    cd /Users/cjs/Documents/2ndApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -filelist /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/Objects-normal/i386/2ndApp.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/2ndApp0#
+
+CProcessInfoPlistFile /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/Info.plist _ndApp-Info.plist
+s292107261.067506
+e292107261.072787
+r1
+xProcessInfoPlistFile
+x/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/Info.plist
+x_ndApp-Info.plist
+lSLF07#2@25"Process _ndApp-Info.plist292107261#292107261#0(0"0(0#0#45"/Users/cjs/Documents/2ndApp/_ndApp-Info.plist30399800003068008#443"    cd /Users/cjs/Documents/2ndApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _ndApp-Info.plist -genpkginfo /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app/Info.plist0#
+
+CProcessPCH /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch.gch _ndApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292107261.641680
+e292107262.995989
+r1
+xProcessPCH
+x/var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch.gch
+x_ndApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile _ndApp_Prefix.pch292107261#292107262#0(0"0(0#0#45"/Users/cjs/Documents/2ndApp/_ndApp_Prefix.pch4300960984#1620"    cd /Users/cjs/Documents/2ndApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-generated-files.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-own-target-headers.hmap -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-all-target-headers.hmap -iquote /Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/2ndApp-project-headers.hmap -F/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator -I/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/include -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources/i386 -I/Users/cjs/Documents/2ndApp/build/2ndApp.build/Debug-iphonesimulator/2ndApp.build/DerivedSources -c /Users/cjs/Documents/2ndApp/_ndApp_Prefix.pch -o /var/folders/Em/EmbufypXGpK-ME2o7Ho2zU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_ndApp_Prefix-dhjvyrmvnumxwocogovblgceevji/_ndApp_Prefix.pch.gch0#
+
+CTouch /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app
+s292107263.436203
+e292107263.441971
+r1
+xTouch
+x/Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app
+lSLF07#2@72"Touch /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app292107263#292107263#0(0"0(0#0#0"4300960984#255"    cd /Users/cjs/Documents/2ndApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cjs/Documents/2ndApp/build/Debug-iphonesimulator/2ndApp.app0#
+
